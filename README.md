@@ -10,9 +10,27 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <a href="https://github.com/ClockZinc/sd-webui-IS-NET-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=sd-webui-IS-NET-pro&show_owner=true" />
+  </a>
+  <a href="https://github.com/ClockZinc/libtorch_PPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=libtorch_PPO&show_owner=true" />
+  </a>
+  <a href="https://github.com/ClockZinc/SAC-using-Pytorch2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=SAC-using-Pytorch2&show_owner=true" />
+  </a>
+  <a href="https://github.com/ClockZinc/Video2Frame-Frame2Video">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=Video2Frame-Frame2Video&show_owner=true" />
+  </a>
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" height="195"/>
+</div>
+<br clear="all"/>
 
+  
 
 # 🔬 Research Focus
 
