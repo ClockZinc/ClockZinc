@@ -7,9 +7,6 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 🚀 School of Aerospace Engineering, Beijing Institute of Technology  
 📧 clockzinc@163.com | 📺 [bilibili channel](https://space.bilibili.com/113557956) | 📍 Haidian District, Beijing  
   
-🔐 **Research Transparency Notice:**  
-_"In compliance with institutional policy, all research-related repositories have been archived.  
-I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
 <p align="center">
   <a href="https://github.com/ClockZinc/sd-webui-IS-NET-pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=sd-webui-IS-NET-pro&show_owner=true" />
@@ -25,11 +22,14 @@ I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An A
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" />
 </div>
 <br clear="all"/>
-
+🔐 **Research Transparency Notice:**  
+_"In compliance with institutional policy, all research-related repositories have been archived.  
+I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
+![image_AI_BLIC](./image/small_review_of_bilc.png)
   
 
 # 🔬 Research Focus
