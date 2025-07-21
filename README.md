@@ -17,8 +17,8 @@ I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An A
   <a href="https://github.com/ClockZinc/libtorch_PPO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=libtorch_PPO&show_owner=true" />
   </a>
-  <a href="https://github.com/ClockZinc/SAC-using-Pytorch2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=SAC-using-Pytorch2&show_owner=true" />
+  <a href="https://github.com/ClockZinc/RL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=RL&show_owner=true" />
   </a>
   <a href="https://github.com/ClockZinc/Video2Frame-Frame2Video">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClockZinc&repo=Video2Frame-Frame2Video&show_owner=true" />
