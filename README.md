@@ -29,7 +29,7 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 🔐 **Research Transparency Notice:**  
 _"In compliance with institutional policy, all research-related repositories have been archived.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_  
-![image_AI_BLIC](./image/small_review_of_bilc.png)
+![image_AI_BLIC](./images/small_review_of_bilc.png)
   
 
 # 🔬 Research Focus
