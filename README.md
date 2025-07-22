@@ -130,7 +130,7 @@ I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intel
 
 # 📬 Contact
 
-• Academic Collaboration: Open to discussions on MARL algorithms and swarm systems  
+• Academic Collaboration: Open to discussions on MARL algorithms and Autonomous swarm systems  
 
 • Technical Consultation: UAV swarm development • ROS2 integration • Simulation platforms  
 
@@ -138,11 +138,3 @@ I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intel
 
   📧 clockzinc@163.com  
   🔗 https://github.com/clockzinc
-
-
-Let me know if you'd like to:  
-• Add specific technical diagrams  
-
-• Include selected publication abstracts  
-
-• Customize sections for industry vs. academic audiences
