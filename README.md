@@ -28,19 +28,21 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
 <br clear="all"/>
 
 🔐 **Research Transparency Notice:**  
-_"In compliance with institutional policy, all research-related repositories have been archived.  
+_"In compliance with institutional policy, **all research-related repositories have been made private**.  
 I'm now actively developing public AI tools - stay tuned for **PaperPal**:  An AI-powered academic recommendation system launching this quarter!"_    
 ![image_AI_BLIC](./images/small_review_of_bilc.png)
 
 
 # 🔬 Research Focus
+I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intelligent decision-making and navigation for UAVs. My specialization includes:
 
-I am interest in intelligent decision-making for UAV swarms, specializing in:  
-• Multi-Agent Reinforcement Learning (MARL): Distributed task planning & real-time coordination  
+• **Autonomous Safe Decision-Making**: Developing safe and efficient decision-making frameworks for UAVs to independently execute and complete various autonomous tasks.
 
-• Semantic-Driven Mission Orchestration: LLM-Agent frameworks for autonomous task decomposition  
+• **Autonomous Navigation**: Designing millisecond-level dynamic obstacle avoidance algorithms for intelligent and adaptive safe trajectory planning.
 
-• Real-Time Path Planning: Millisecond-level dynamic obstacle avoidance algorithms  
+• Semantic-Driven Mission Orchestration: Utilizing LLM-Agent frameworks to autonomously decompose and manage complex tasks.
+
+
 
 # 🎓 Education
 
