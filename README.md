@@ -75,7 +75,8 @@ I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intel
 | Title                                                                                                                      | Publication Venue               | Status & Position     |  
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------------------|  
 | "Distributed Adaptive Coalition Task Allocation based on Reachable Region Online Prediction for Multi-Agent Systems"       | Defence Technology             | SCI Q1 (accepted), 4th author |  
-| "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"                  | IEEE Trans. Automation Science & Engineering | SCI (under review), 4th author |  
+| "Adaptive-critic-based Distributed Event-Triggered Augmented Differential Game for Cooperative Systems"                  | IEEE Trans. Automation Science & Engineering | SCI (accepted), 4th author |  
+| "基于强化学习冲突消解的大规模无人机集群航迹规划方法"                                                                         | 兵工学报 | EI重要 (accepted), 4th author |  
 
 ## 💡 Patents
 
