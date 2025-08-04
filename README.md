@@ -42,8 +42,15 @@ I am interested in **Autonomous Unmanned Aerial Systems**, with a focus on intel
 
 • Semantic-Driven Mission Orchestration: Utilizing LLM-Agent frameworks to autonomously decompose and manage complex tasks.
 
-
-
+# 🗂️ Portfolio
+## Undergraduate Thesis – UAV Swarms Trajectory Planning
+![PPT1](./images/ppt1.png)  
+## Graduate Research – RL-Based Task Allocation
+![PPT2](./images/ppt2.png)  
+## Graduate Research – Robust Trajectory Planning
+![PPT3](./images/ppt3.png)  
+## Graduate Research – LLM Agents mission planning
+![PPT4](./images/ppt4.png)  
 # 🎓 Education
 
 | **Degree** | **Institution & Program** | **Duration** |  
