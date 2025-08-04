@@ -22,8 +22,8 @@ M.Sc. Candidate in Aeronautics & Astronautics Science and Technology | UAV Swarm
   </a>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClockZinc&show_icons=true&theme=tokyonight&include_all_commits=true" style="height:245px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClockZinc&layout=donut" style="height:245px;"/>
 </div>
 <br clear="all"/>
 
